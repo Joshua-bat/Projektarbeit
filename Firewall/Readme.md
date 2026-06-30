@@ -6,7 +6,7 @@
 
 <p>After booting IPFire you will see the <strong>Network Configuration Menu</strong>. The current configuration is shown at the top (<code>GREEN + RED</code>). Work through the menu from top to bottom:</p>
 
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/3dbac0518edcace56dc12af9555b7fbb7ac00594/doc/images/IPFire_configuration.png" width="700" />
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c7b3dbf9a7c59965819b73be4c42a707837a5c87/doc/images/IPFire_configuration.png" width="700" />
 
 <h3>Step 2 — Type of Network Configuration</h3>
 
@@ -78,7 +78,7 @@ IPFire will save the settings and restart the network interfaces.</p>
   </li>
 </ul>
 
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/main/doc/images/Firewall_rules.png" width="700" />
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c7b3dbf9a7c59965819b73be4c42a707837a5c87/doc/images/Firewall_rules.png" width="700" />
 
 <blockquote>
 <strong>💡 Tip:</strong> For a basic setup, create a rule from <code>GREEN</code> to <code>RED</code> with action <strong>ACCEPT</strong> to allow all LAN clients to access the internet.
