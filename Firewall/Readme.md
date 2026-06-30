@@ -18,10 +18,6 @@ Choose the network topology that matches your setup. For a basic firewall setup,
   <li><strong>RED</strong> — the external (untrusted) network. This is your WAN interface, connected to the internet or upstream router.</li>
 </ul>
 
-<blockquote>
-<strong>💡 Tip:</strong> GREEN is always the LAN side — the NIC connected to your switch or local clients. RED is always the WAN side — the NIC connected to your ISP or external network.
-</blockquote>
-
 <h3>Step 3 — Network Card Assignment</h3>
 
 <p>Select <strong>Network Card Assignment</strong> and confirm with <strong>OK</strong>.<br />
