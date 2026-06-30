@@ -76,8 +76,9 @@ IPFire will save the settings and restart the network interfaces.</p>
 
 <img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c7b3dbf9a7c59965819b73be4c42a707837a5c87/doc/images/Firewall_rules.png" width="700" />
 
-<blockquote>
-<strong>💡 Tip:</strong> For a basic setup, create a rule from <code>GREEN</code> to <code>RED</code> with action <strong>ACCEPT</strong> to allow all LAN clients to access the internet.
-</blockquote>
+<p>My rules are Pretty simple, we block everything under the Firewalloption/Forward then we allow HTTP.HTTPS,NTP,ICMP</p>
+
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c7b3dbf9a7c59965819b73be4c42a707837a5c87/doc/images/Firewall_rules.png" width="700" />
+
 
 
