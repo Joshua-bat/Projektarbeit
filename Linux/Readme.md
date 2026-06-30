@@ -12,7 +12,7 @@
   I created a specific folder structure to keep everything organized.
   You can see it in the image below.
 </p>
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/1fd567bf5e7043f2abcf013f8dc6ceac76ed4b06/doc/images/Folder_Structure.png" alt="Folder Structure">
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c82c870324ce135d13024f563e7ae68b92d6643f/doc/images/Folder_Structure.png" alt="Folder Structure">
 <p>
   To recreate the folder structure, I wrote a shell script that contains one command per folder:
   <br>
