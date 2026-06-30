@@ -14,7 +14,7 @@
   <li><strong>Initial Setup Token</strong> — required for the first login; find it in the server logs (see below)</li>
 </ul>
 
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/e6735a7c1505e5cff6c91bcb8d0db05ffc09c174/doc/images/New_Portainer_Installation.png" width="700" />
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/d1e6f823fc7a0672d40ed8ea47e2dcb750dfcec3/doc/images/New_Portainer_Installation.png" width="700" />
 
 <hr />
 
@@ -27,7 +27,7 @@ To find it, check the container logs:</p>
 
 <p>Look for a line containing the token in the output.</p>
 
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/511b34259dce748ea162be81ba633d740ca78c52/doc/images/Portainer_logs.png" width="700" />
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/d1e6f823fc7a0672d40ed8ea47e2dcb750dfcec3/doc/images/Portainer_logs.png" width="700" />
 
 <hr />
 
@@ -40,6 +40,6 @@ If you miss it, restart the Portainer container to regenerate it.
 
 <p>the Quick Setup wizard is easy to understand,just press Get Startet ater that you see the Dashboard from youre local Docker service</p>
 
-<img src="https://github.com/Joshua-bat/fisi-projekt-321-backup/blob/47aadd340db98213dd78555d01246fb1314c1596/doc/images/Quick_setup.png" width="700" />
+<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/d1e6f823fc7a0672d40ed8ea47e2dcb750dfcec3/doc/images/Quick_setup.png" width="700" />
 
 <h1>Dashboard</h1>
