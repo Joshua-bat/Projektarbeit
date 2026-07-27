@@ -1,4 +1,4 @@
 include:
-  - home/vboxuser/server/nginx/npm-compose.yml
-  - home/vboxuser/server/nextcloud/nexcloud-compose.yml
-  - home/vboxuser/server/portainer/portainer-compose.yml
+  - nginx/npm-compose.yml
+  - nextcloud/nexcloud-compose.yml
+  - portainer/portainer-compose.yml
