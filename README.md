@@ -4,7 +4,6 @@
 
 ![Status](https://img.shields.io/badge/status-in%20Bearbeitung-C46A2E)
 ![Umgebung](https://img.shields.io/badge/umgebung-virtuelle%20Testumgebung-0B6E4F)
-![IHK](https://img.shields.io/badge/IHK-M%C3%BCnchen%20%26%20Oberbayern-4B5A54)
 
 Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifreigaben) inklusive einer redundanten, verschlüsselten **3-2-1-Backup-Strategie** für besonders schutzwürdige Patientendaten.
 
@@ -99,7 +98,6 @@ doc/                      # Projektantrag, Dokumentation, Netzplan
 ## Projektstatus
 
 - [x] Ist-Analyse & Zielarchitektur geplant
-- [x] Projektantrag bei der IHK eingereicht
 - [ ] Aufbau Windows Server & Active Directory
 - [ ] Aufbau externer Nextcloud-Server
 - [ ] Restore-Test & Dokumentation
