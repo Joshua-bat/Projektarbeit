@@ -19,7 +19,8 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 - [Projektstatus](#projektstatus)
 
 ## Configuration
-
+- [Linux]
+        - 
 - [Docker](Docker)
 
 ## Ausgangslage & Auftrag
