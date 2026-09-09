@@ -12,7 +12,7 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 
 ## Configuration
 - [Linux](Linux)
-- [Nignx Proxy Manager](NPM )
+- [NPM](NPM)
 - [Docker](Docker)
 
 ## Ausgangslage & Auftrag
