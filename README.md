@@ -14,6 +14,7 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 - [Linux](Linux)
 - [NPM](NPM)
 - [Docker](Docker)
+- [Windows](https://github.com/Joshua-bat/Projektarbeit/tree/e6b3d42ca9ea1e6fa8d31da2c570cc0d233e0f79/Windows%20)
 
 ## Ausgangslage & Auftrag
 
