@@ -20,7 +20,7 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 
 ## Configuration
 
--[Docker](Docker)
+- [Docker](Docker)
 
 ## Ausgangslage & Auftrag
 
