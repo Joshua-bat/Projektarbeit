@@ -1,7 +1,5 @@
 # IT-Infrastruktur mit cloudbasiertem 3-2-1-Backup für eine Zahnarztpraxis
 
-> IHK-Abschlussprüfung · Fachinformatiker/-in Systemintegration · Sommerprüfung 2026
-
 ![Status](https://img.shields.io/badge/status-in%20Bearbeitung-C46A2E)
 ![Umgebung](https://img.shields.io/badge/umgebung-virtuelle%20Testumgebung-0B6E4F)
 
