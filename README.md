@@ -16,8 +16,7 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 - [Windows](https://github.com/Joshua-bat/Projektarbeit/tree/e6b3d42ca9ea1e6fa8d31da2c570cc0d233e0f79/Windows%20)
 - [Firewall](https://github.com/Joshua-bat/Projektarbeit/tree/8d0fa4235ff2e63f6fab9030e35c1883ffa2a9d6/Firewall)
 - [Nextcloud](https://github.com/Joshua-bat/Projektarbeit/tree/8d0fa4235ff2e63f6fab9030e35c1883ffa2a9d6/Nextcloud)
-- [Portainer](https://github.com/Joshua-bat/Projektarbeit/tree/8d0fa4235ff2e63f6fab9030e35c1883ffa2a9d6/Potainer)
-
+  
 ## Ausgangslage & Auftrag
 
 Der Kunde eröffnet eine neue Zahnarztpraxis mit mehreren Behandlungszimmern. Es existiert aktuell **keine eigene IT-Infrastruktur**: kein zentraler Server, keine strukturierte Benutzer- und Rechteverwaltung, keine zentrale Dateiablage und kein Datensicherungskonzept.
